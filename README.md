@@ -76,6 +76,8 @@ This project demonstrates a **CI/CD pipeline** implementation using **Jenkins**,
    ```bash
    docker logs jenkins-blueocean
    ```
+   ![image](https://github.com/user-attachments/assets/733c6a26-6f15-44be-a564-c88777986afe)
+
 
 6. **Run Prometheus**:
    ```bash
@@ -159,13 +161,16 @@ This project demonstrates a **CI/CD pipeline** implementation using **Jenkins**,
 ## Screenshots
 
 ### Jenkins Dashboard
-![Jenkins Dashboard](assets/jenkins-dashboard.png)
+![jenkins dashboard](https://github.com/user-attachments/assets/8c4170e4-459a-415a-8a20-fbd2da364d79)
+
 
 ### Pipeline Details
-![Pipeline Details](assets/pipeline-details.png)
+![detail pipeline react-app](https://github.com/user-attachments/assets/b6f3b154-8bac-405c-94d0-f731d769fbaa)
+
 
 ### Grafana Dashboard
-![Grafana Dashboard](assets/grafana-dashboard.png)
+![Grafana dashboard](https://github.com/user-attachments/assets/737b41aa-3ecc-47ec-9830-d34880bc5676)
+
 
 ---
 
