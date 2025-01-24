@@ -1,6 +1,6 @@
 [submodule "React App Project"]
 	path = React App Project
-	url = https://github.com/bwbayu/a428-cicd-labs/tree/react-app
+	url = https://github.com/bwbayu/a428-cicd-labs
 
 [submodule "Python Project"]
 	path = Python Project
