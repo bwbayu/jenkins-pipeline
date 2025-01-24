@@ -1,7 +1,7 @@
 [submodule "React App Project"]
-	path = React_App_Project
-	url = https://github.com/bwbayu/a428-cicd-labs
+	path = React App Project
+	url = https://github.com/bwbayu/a428-cicd-labs.git
 
 [submodule "Python Project"]
-	path = Python_Project
-	url = https://github.com/bwbayu/simple-python-pyinstaller-app
+	path = Python Project
+	url = https://github.com/bwbayu/simple-python-pyinstaller-app.git
